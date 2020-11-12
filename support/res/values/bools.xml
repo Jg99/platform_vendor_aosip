@@ -18,5 +18,5 @@
     <!-- Whether device supports an alt. ambient display -->
     <bool name="config_alt_ambient_display">false</bool>
     <!-- FOD icon dimming -->
-    <java-symbol type="bool" name="config_targetUsesInKernelDimming" />
+<!--    <java-symbol type="bool" name="config_targetUsesInKernelDimming" /> currently causes error-->
 </resources>
